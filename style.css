@@ -1,0 +1,66 @@
+h1{
+	text-align: center;
+	font-size: 50px;
+	font-style: italic;
+	text-decoration: underline;
+	color: purple
+
+}
+
+body{
+	background: #F8F074;
+
+
+}
+
+.Grand{
+
+	font-size: 20px
+}
+
+.grand{
+	font-size: 30px
+}
+
+body{
+text-align: center;
+
+}
+
+h1{
+        text-align: center;
+}
+p{
+        text-align : center;
+}
+
+#titre{       
+	text-align: center;
+	font-size: 20px;
+	font-style: inherit; 
+	font-family: serif;
+}
+
+.rouge {
+        background-color: red;
+}
+.blanc {
+        background-color : #F8F074;
+}
+
+
+#fin{       
+	text-align: center;
+	font-size: 15px;
+	font-style: inherit; 
+	font-family: cursive;
+	text-decoration: underline;
+}
+
+.vert {
+        background-color: green;
+}
+.blanc {
+        background-color : #F8F074;
+}
+
